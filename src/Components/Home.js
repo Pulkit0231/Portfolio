@@ -34,7 +34,10 @@ const Home = () => {
             be proud of.<br /><br />
             I am fluent in <b>C++</b> and know a bit of <b>Python</b> and am working on a few
             projects in the <b>MERN</b> stack.<br />
-            I plan to learn <b>Next.js</b> and<b> Typescript</b> in the near future.
+            I plan to learn <b>Next.js</b> and<b> Typescript</b> in the near future.<br /><br />
+            I also work on developing a <b>GenAI</b> Workflow Automation Framework, building intelligent 
+            chat applications with <b>FlowiseAI</b>, and creating workflows for generating videos and images
+            tailored to specific use cases.
           </p>
         </div>
         <Tilt>
